@@ -1,1 +1,2 @@
 # Regression-analysis-on-songs-popularity
+This is a statistical project conducted to study the impacts of different musical characteristics on the popularity of songs. In this project, a multiple linear regression is applied to investigate collected data from [Kaggle](https://www.kaggle.com/datasets/zaheenhamidani/ultimate-spotify-tracks-db). Throughout the analysis process, all aspects of the data are explored and explained insightfully before performing the regression model. Hopefully, this can be a minor contribution to the work of connecting Arts and Computer Science. 
